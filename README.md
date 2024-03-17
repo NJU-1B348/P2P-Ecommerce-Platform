@@ -22,10 +22,10 @@
 - 代码规范：PEP8
   - 可使用 Pycharm 的 PEP8 检查工具或 vscode 的 Pylint 插件进行代码规范检查
 - Git 规范
-  - 从 master 分支签出新分支进行开发 `git checkout -b dev/xxxxx`
-  - 分支合并到 master 分支前，需要进行测试和代码审查
-  - 分支合并到 master 分支时，需要明确更改的信息
-  - 分支合并到 master 分支后，若与 master 分支有冲突，或落后多个版本，可以签出新分支进行开发
+  - 从 main 分支签出新分支进行开发 `git checkout -b dev/xxxxx`
+  - 分支合并到 main 分支前，需要进行测试和代码审查
+  - 分支合并到 main 分支时，需要明确更改的信息
+  - 分支合并到 main 分支后，若与 main 分支有冲突，或落后多个版本，可以签出新分支进行开发
 
 ## 开发准备
 
